@@ -11,7 +11,7 @@
 * No diretório execute o comando ```npm install```
 * Instale o Cypress com Cucumber com o comando ``` npm install --save-dev cypress@9.1.1 cypress-cucumber-preprocessor```
 
-* Use o comando ```npx cypress open``` para rodar os testes no modo interativo ou ```npm run test:chrome``` para rodar no modo headless
+* Use o comando ```npx cypress open``` para rodar os testes no modo interativo
 
 
 ### ⚙️ Arquitetura do projeto
