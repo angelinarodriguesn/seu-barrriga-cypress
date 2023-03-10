@@ -21,7 +21,7 @@
   ├─  cypress/
   │        │
   │        ├── fixtures/
-  │        │   ├── *.json  │        
+  │        │   ├── *.json       
   │        │
   │        ├── integration/
   │        │   ├── <Features>/
