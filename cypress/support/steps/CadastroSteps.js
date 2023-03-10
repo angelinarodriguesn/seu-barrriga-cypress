@@ -26,7 +26,7 @@ And("preencho campos com credenciais invalidas", () => {
     cadastroPage.preencherCamposInvalidos()
 })
 
-Then("deve ser exibida mensagem de erro ao cadastrar ", () => {
+Then("deve ser exibida mensagem de erro ao cadastrar", () => {
     cadastroPage.mensagemErro()
 })
 

@@ -29,7 +29,7 @@ class CadastroPage {
     }
    
     preencherCamposInvalidos(){        
-        cy.get(cadastroElements.inputEmail()).type('teste8141940@novoteste.com')      
+        cy.get(cadastroElements.inputEmail()).type('testeangel091123@novoteste03.com')      
         cy.get(cadastroElements.inputSenha()).type('teste1234')
     }
 

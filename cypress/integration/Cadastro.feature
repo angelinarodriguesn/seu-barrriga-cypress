@@ -13,4 +13,4 @@ Feature: Cadastro
         When clico no menu novo usuario
         And preencho campos com credenciais invalidas
         And clico no botao cadastrar
-        Then deve ser exibida mensagem de erro  
+        Then deve ser exibida mensagem de erro ao cadastrar  
