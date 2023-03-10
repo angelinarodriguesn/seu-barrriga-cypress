@@ -4,7 +4,7 @@
 ### ✨  Instalação 
 -----------------------
 
-* Instale o [Node.js](https://nodejs.org/en/download/)3
+* Instale o [Node.js](https://nodejs.org/en/download/)
 
 * Clone o repositório
 
